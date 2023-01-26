@@ -1,4 +1,4 @@
-
+<!-- 
 # zap-gpt
 
 A integração permitirá que usuários interajam com o ChatGPT através de mensagens de texto no WhatsApp, fornecendo respostas automatizadas baseadas em suas perguntas e comandos.
@@ -34,4 +34,4 @@ Por fim rode o comando abaixo para iniciar o projeto e leia o QR Code com o seu 
 
 ```bash
   npm start
-```
+``` -->
